@@ -1,0 +1,17 @@
+C:\Users\rross\source\repos\CodeWars\CodeWarsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\rross\source\repos\CodeWars\CodeWarsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\rross\source\repos\CodeWars\CodeWarsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\rross\source\repos\CodeWars\CodeWarsTests\bin\Debug\CodeWarsTests.dll
+C:\Users\rross\source\repos\CodeWars\CodeWarsTests\bin\Debug\CodeWarsTests.pdb
+C:\Users\rross\source\repos\CodeWars\CodeWarsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\rross\source\repos\CodeWars\CodeWarsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\rross\source\repos\CodeWars\CodeWarsTests\bin\Debug\nunit.framework.dll
+C:\Users\rross\source\repos\CodeWars\CodeWarsTests\bin\Debug\nunit.framework.pdb
+C:\Users\rross\source\repos\CodeWars\CodeWarsTests\bin\Debug\CodeWars.exe
+C:\Users\rross\source\repos\CodeWars\CodeWarsTests\bin\Debug\CodeWars.pdb
+C:\Users\rross\source\repos\CodeWars\CodeWarsTests\bin\Debug\CodeWars.exe.config
+C:\Users\rross\source\repos\CodeWars\CodeWarsTests\obj\Debug\CodeWarsTests.csprojAssemblyReference.cache
+C:\Users\rross\source\repos\CodeWars\CodeWarsTests\obj\Debug\CodeWarsTests.csproj.CoreCompileInputs.cache
+C:\Users\rross\source\repos\CodeWars\CodeWarsTests\obj\Debug\CodeWarsTests.csproj.CopyComplete
+C:\Users\rross\source\repos\CodeWars\CodeWarsTests\obj\Debug\CodeWarsTests.dll
+C:\Users\rross\source\repos\CodeWars\CodeWarsTests\obj\Debug\CodeWarsTests.pdb
