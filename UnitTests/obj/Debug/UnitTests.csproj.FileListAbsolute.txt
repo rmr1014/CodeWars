@@ -1,0 +1,12 @@
+C:\Users\rross\source\repos\CodeWars\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\rross\source\repos\CodeWars\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\rross\source\repos\CodeWars\UnitTests\bin\Debug\nunit.framework.dll
+C:\Users\rross\source\repos\CodeWars\UnitTests\bin\Debug\nunit.framework.pdb
+C:\Users\rross\source\repos\CodeWars\UnitTests\bin\Debug\CodeWars.exe
+C:\Users\rross\source\repos\CodeWars\UnitTests\bin\Debug\CodeWars.pdb
+C:\Users\rross\source\repos\CodeWars\UnitTests\bin\Debug\CodeWars.exe.config
+C:\Users\rross\source\repos\CodeWars\UnitTests\obj\Debug\UnitTests.csprojAssemblyReference.cache
+C:\Users\rross\source\repos\CodeWars\UnitTests\obj\Debug\UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\rross\source\repos\CodeWars\UnitTests\obj\Debug\UnitTests.csproj.CopyComplete
+C:\Users\rross\source\repos\CodeWars\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\rross\source\repos\CodeWars\UnitTests\obj\Debug\UnitTests.pdb
